@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AQiYDPOiXlJww2gsDeZMnQEbXVQfbHaJJJrCQUInUzcMce6qb2ElmmUBGi1CL6FZviloRlZUSM7/XlcFceB60A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gerson\\source\\repos\\Madaline\\ENTITY\\ENTITY.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gerson\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gerson\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

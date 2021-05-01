@@ -1,0 +1,10 @@
+C:\Users\gerson\source\repos\Madaline\Madaline\bin\Debug\Madaline.exe.config
+C:\Users\gerson\source\repos\Madaline\Madaline\bin\Debug\Madaline.exe
+C:\Users\gerson\source\repos\Madaline\Madaline\bin\Debug\Madaline.pdb
+C:\Users\gerson\source\repos\Madaline\Madaline\obj\Debug\Madaline.csprojAssemblyReference.cache
+C:\Users\gerson\source\repos\Madaline\Madaline\obj\Debug\Madaline.Properties.Resources.resources
+C:\Users\gerson\source\repos\Madaline\Madaline\obj\Debug\Madaline.csproj.GenerateResource.cache
+C:\Users\gerson\source\repos\Madaline\Madaline\obj\Debug\Madaline.csproj.CoreCompileInputs.cache
+C:\Users\gerson\source\repos\Madaline\Madaline\obj\Debug\Madaline.exe
+C:\Users\gerson\source\repos\Madaline\Madaline\obj\Debug\Madaline.pdb
+C:\Users\gerson\source\repos\Madaline\Madaline\obj\Debug\Madaline.Main.resources
