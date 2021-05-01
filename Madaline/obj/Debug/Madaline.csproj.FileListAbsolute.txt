@@ -8,3 +8,8 @@ C:\Users\gerson\source\repos\Madaline\Madaline\obj\Debug\Madaline.csproj.CoreCom
 C:\Users\gerson\source\repos\Madaline\Madaline\obj\Debug\Madaline.exe
 C:\Users\gerson\source\repos\Madaline\Madaline\obj\Debug\Madaline.pdb
 C:\Users\gerson\source\repos\Madaline\Madaline\obj\Debug\Madaline.Main.resources
+C:\Users\gerson\source\repos\Madaline\Madaline\bin\Debug\BLL.dll
+C:\Users\gerson\source\repos\Madaline\Madaline\bin\Debug\ENTITY.dll
+C:\Users\gerson\source\repos\Madaline\Madaline\bin\Debug\BLL.pdb
+C:\Users\gerson\source\repos\Madaline\Madaline\bin\Debug\ENTITY.pdb
+C:\Users\gerson\source\repos\Madaline\Madaline\obj\Debug\Madaline.csproj.CopyComplete

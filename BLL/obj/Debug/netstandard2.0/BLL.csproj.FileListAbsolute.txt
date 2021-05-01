@@ -1,0 +1,14 @@
+C:\Users\gerson\source\repos\Madaline\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+C:\Users\gerson\source\repos\Madaline\BLL\bin\Debug\netstandard2.0\BLL.dll
+C:\Users\gerson\source\repos\Madaline\BLL\bin\Debug\netstandard2.0\BLL.pdb
+C:\Users\gerson\source\repos\Madaline\BLL\bin\Debug\netstandard2.0\DALL.dll
+C:\Users\gerson\source\repos\Madaline\BLL\bin\Debug\netstandard2.0\ENTITY.dll
+C:\Users\gerson\source\repos\Madaline\BLL\bin\Debug\netstandard2.0\DALL.pdb
+C:\Users\gerson\source\repos\Madaline\BLL\bin\Debug\netstandard2.0\ENTITY.pdb
+C:\Users\gerson\source\repos\Madaline\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+C:\Users\gerson\source\repos\Madaline\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+C:\Users\gerson\source\repos\Madaline\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+C:\Users\gerson\source\repos\Madaline\BLL\obj\Debug\netstandard2.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\gerson\source\repos\Madaline\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete
+C:\Users\gerson\source\repos\Madaline\BLL\obj\Debug\netstandard2.0\BLL.dll
+C:\Users\gerson\source\repos\Madaline\BLL\obj\Debug\netstandard2.0\BLL.pdb

@@ -47,6 +47,13 @@ namespace Madaline
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.panel6 = new System.Windows.Forms.Panel();
             this.label5 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
             this.pnMenu.SuspendLayout();
             this.PnPresentacion.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.NbIteracion)).BeginInit();
@@ -57,6 +64,13 @@ namespace Madaline
             // pnMenu
             // 
             this.pnMenu.BackColor = System.Drawing.Color.Black;
+            this.pnMenu.Controls.Add(this.label11);
+            this.pnMenu.Controls.Add(this.label10);
+            this.pnMenu.Controls.Add(this.label9);
+            this.pnMenu.Controls.Add(this.label8);
+            this.pnMenu.Controls.Add(this.label7);
+            this.pnMenu.Controls.Add(this.panel1);
+            this.pnMenu.Controls.Add(this.textBox2);
             this.pnMenu.Controls.Add(this.label5);
             this.pnMenu.Controls.Add(this.panel6);
             this.pnMenu.Controls.Add(this.textBox1);
@@ -74,6 +88,7 @@ namespace Madaline
             this.pnMenu.Name = "pnMenu";
             this.pnMenu.Size = new System.Drawing.Size(219, 548);
             this.pnMenu.TabIndex = 0;
+            this.pnMenu.Paint += new System.Windows.Forms.PaintEventHandler(this.pnMenu_Paint);
             // 
             // PnPresentacion
             // 
@@ -294,6 +309,84 @@ namespace Madaline
             this.label5.TabIndex = 23;
             this.label5.Text = "Capas intermedias";
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
+            this.label7.Location = new System.Drawing.Point(12, 306);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(137, 15);
+            this.label7.TabIndex = 26;
+            this.label7.Text = "Funciones de activacion";
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
+            this.panel1.Location = new System.Drawing.Point(16, 347);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(163, 1);
+            this.panel1.TabIndex = 25;
+            // 
+            // textBox2
+            // 
+            this.textBox2.BackColor = System.Drawing.Color.Black;
+            this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox2.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox2.ForeColor = System.Drawing.Color.White;
+            this.textBox2.Location = new System.Drawing.Point(15, 326);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(163, 15);
+            this.textBox2.TabIndex = 24;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.BackColor = System.Drawing.Color.Black;
+            this.label8.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.ForeColor = System.Drawing.Color.SkyBlue;
+            this.label8.Location = new System.Drawing.Point(13, 377);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(137, 15);
+            this.label8.TabIndex = 27;
+            this.label8.Text = "Funciones de activacion";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.BackColor = System.Drawing.Color.Black;
+            this.label9.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.ForeColor = System.Drawing.Color.SkyBlue;
+            this.label9.Location = new System.Drawing.Point(13, 412);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(68, 15);
+            this.label9.TabIndex = 28;
+            this.label9.Text = "Sigmoide: 1";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.BackColor = System.Drawing.Color.Black;
+            this.label10.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.ForeColor = System.Drawing.Color.SkyBlue;
+            this.label10.Location = new System.Drawing.Point(13, 436);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(131, 15);
+            this.label10.TabIndex = 29;
+            this.label10.Text = "Tangente hiperbolica: 2";
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.BackColor = System.Drawing.Color.Black;
+            this.label11.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.ForeColor = System.Drawing.Color.SkyBlue;
+            this.label11.Location = new System.Drawing.Point(13, 462);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(74, 15);
+            this.label11.TabIndex = 30;
+            this.label11.Text = "Gaussiana: 3";
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -337,6 +430,13 @@ namespace Madaline
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Panel panel6;
         private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.TextBox textBox2;
     }
 }
 

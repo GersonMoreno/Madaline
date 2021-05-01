@@ -1,0 +1,12 @@
+C:\Users\gerson\source\repos\Madaline\DALL\bin\Debug\netstandard2.0\DALL.deps.json
+C:\Users\gerson\source\repos\Madaline\DALL\bin\Debug\netstandard2.0\DALL.dll
+C:\Users\gerson\source\repos\Madaline\DALL\bin\Debug\netstandard2.0\DALL.pdb
+C:\Users\gerson\source\repos\Madaline\DALL\bin\Debug\netstandard2.0\ENTITY.dll
+C:\Users\gerson\source\repos\Madaline\DALL\bin\Debug\netstandard2.0\ENTITY.pdb
+C:\Users\gerson\source\repos\Madaline\DALL\obj\Debug\netstandard2.0\DALL.csprojAssemblyReference.cache
+C:\Users\gerson\source\repos\Madaline\DALL\obj\Debug\netstandard2.0\DALL.AssemblyInfoInputs.cache
+C:\Users\gerson\source\repos\Madaline\DALL\obj\Debug\netstandard2.0\DALL.AssemblyInfo.cs
+C:\Users\gerson\source\repos\Madaline\DALL\obj\Debug\netstandard2.0\DALL.csproj.CoreCompileInputs.cache
+C:\Users\gerson\source\repos\Madaline\DALL\obj\Debug\netstandard2.0\DALL.csproj.CopyComplete
+C:\Users\gerson\source\repos\Madaline\DALL\obj\Debug\netstandard2.0\DALL.dll
+C:\Users\gerson\source\repos\Madaline\DALL\obj\Debug\netstandard2.0\DALL.pdb

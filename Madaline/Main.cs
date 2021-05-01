@@ -16,5 +16,10 @@ namespace Madaline
         {
             InitializeComponent();
         }
+
+        private void pnMenu_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

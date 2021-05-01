@@ -1,0 +1,9 @@
+C:\Users\gerson\source\repos\Madaline\ENTITY\bin\Debug\netstandard2.0\ENTITY.deps.json
+C:\Users\gerson\source\repos\Madaline\ENTITY\bin\Debug\netstandard2.0\ENTITY.dll
+C:\Users\gerson\source\repos\Madaline\ENTITY\bin\Debug\netstandard2.0\ENTITY.pdb
+C:\Users\gerson\source\repos\Madaline\ENTITY\obj\Debug\netstandard2.0\ENTITY.csprojAssemblyReference.cache
+C:\Users\gerson\source\repos\Madaline\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\gerson\source\repos\Madaline\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfo.cs
+C:\Users\gerson\source\repos\Madaline\ENTITY\obj\Debug\netstandard2.0\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\gerson\source\repos\Madaline\ENTITY\obj\Debug\netstandard2.0\ENTITY.dll
+C:\Users\gerson\source\repos\Madaline\ENTITY\obj\Debug\netstandard2.0\ENTITY.pdb
