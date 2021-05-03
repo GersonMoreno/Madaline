@@ -13,3 +13,5 @@ C:\Users\gerson\source\repos\Madaline\Madaline\bin\Debug\ENTITY.dll
 C:\Users\gerson\source\repos\Madaline\Madaline\bin\Debug\BLL.pdb
 C:\Users\gerson\source\repos\Madaline\Madaline\bin\Debug\ENTITY.pdb
 C:\Users\gerson\source\repos\Madaline\Madaline\obj\Debug\Madaline.csproj.CopyComplete
+C:\Users\gerson\source\repos\Madaline\Madaline\bin\Debug\DALL.dll
+C:\Users\gerson\source\repos\Madaline\Madaline\bin\Debug\DALL.pdb
